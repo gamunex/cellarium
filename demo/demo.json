@@ -1,0 +1,939 @@
+{
+ "prefixes": [
+  {
+   "id": "76bbcba1c1c6",
+   "path": "/home/alex/Games/ubisoft-connect",
+   "autoName": "Ubisoft Connect",
+   "source": "lutris",
+   "refs": [
+    {
+     "launcher": "Lutris",
+     "title": "Ubisoft Connect",
+     "detail": ""
+    },
+    {
+     "launcher": "Lutris",
+     "title": "Assassin's Creed Mirage",
+     "detail": ""
+    }
+   ],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Assassin's Creed Mirage",
+     "version": "1.0.7",
+     "publisher": "Ubisoft",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Ubisoft Connect",
+     "version": "164.0.0",
+     "publisher": "Ubisoft",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [
+    "d3dcompiler_43",
+    "corefonts"
+   ],
+   "lastUsed": 1792228510.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "proton",
+   "compatRoot": "/home/alex/Games/ubisoft-connect",
+   "version": "GE-Proton10-25",
+   "protonPath": "/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25",
+   "size": 96400000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25"
+  },
+  {
+   "id": "a0d429ce13b3",
+   "path": "/home/alex/Games/battlenet",
+   "autoName": "Battle.net",
+   "source": "lutris",
+   "refs": [
+    {
+     "launcher": "Lutris",
+     "title": "Battle.net",
+     "detail": ""
+    }
+   ],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Battle.net",
+     "version": "2.42.1",
+     "publisher": "Blizzard Entertainment",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Diablo IV",
+     "version": "",
+     "publisher": "Blizzard Entertainment",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "World of Warcraft",
+     "version": "",
+     "publisher": "Blizzard Entertainment",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Edge WebView2 Runtime",
+     "version": "141.0.3537.71",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1792399582.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "proton",
+   "compatRoot": "/home/alex/Games/battlenet",
+   "version": "GE-Proton11-7",
+   "protonPath": "/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton11-7",
+   "size": 68200000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 7,
+   "runnerOverride": "",
+   "runner": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton11-7"
+  },
+  {
+   "id": "7954677996e1",
+   "path": "/home/alex/WinePrefixes/default",
+   "autoName": "Guild Wars 2",
+   "source": "faugus",
+   "refs": [
+    {
+     "launcher": "Faugus",
+     "title": "Guild Wars 2",
+     "detail": "Proton-GE Latest"
+    }
+   ],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Guild Wars 2",
+     "version": "",
+     "publisher": "ArenaNet",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "CHITUBOX",
+     "version": "2.3.1",
+     "publisher": "CBD-Tech",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Edge WebView2 Runtime",
+     "version": "141.0.3537.71",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [
+    "d3dx9_43"
+   ],
+   "lastUsed": 1792314910.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "proton",
+   "compatRoot": "/home/alex/WinePrefixes/default",
+   "version": "GE-Proton11-7",
+   "protonPath": "/home/alex/.local/share/Steam/compatibilitytools.d/Proton-GE Latest",
+   "size": 24800000000,
+   "nestedIn": null,
+   "contains": [
+    "35634a2c51a1"
+   ],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/Proton-GE Latest"
+  },
+  {
+   "id": "35634a2c51a1",
+   "path": "/home/alex/WinePrefixes/default/launcher-test",
+   "autoName": "launcher-test",
+   "source": "umu",
+   "refs": [],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Guild Wars 2",
+     "version": "",
+     "publisher": "ArenaNet",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1786007710.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "proton",
+   "compatRoot": "/home/alex/WinePrefixes/default/launcher-test",
+   "version": "GE-Proton11-1",
+   "protonPath": "/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton11-7",
+   "size": 1200000000,
+   "nestedIn": "7954677996e1",
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton11-7"
+  },
+  {
+   "id": "3b16473529f6",
+   "path": "/home/alex/WinePrefixes/battlenet",
+   "autoName": "Battle.net",
+   "source": "faugus",
+   "refs": [
+    {
+     "launcher": "Faugus",
+     "title": "Battle.net",
+     "detail": "Proton-GE Latest"
+    }
+   ],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Battle.net",
+     "version": "2.41.0",
+     "publisher": "Blizzard Entertainment",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Hearthstone",
+     "version": "",
+     "publisher": "Blizzard Entertainment",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1788945310.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "proton",
+   "compatRoot": "/home/alex/WinePrefixes/battlenet",
+   "version": "GE-Proton11-7",
+   "protonPath": "/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton11-7",
+   "size": 3100000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton11-7"
+  },
+  {
+   "id": "1031159bd39c",
+   "path": "/home/alex/.wine",
+   "autoName": ".wine",
+   "source": "wine",
+   "refs": [],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Notepad++ (64-bit x64)",
+     "version": "8.7",
+     "publisher": "Notepad++ Team",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "7-Zip 24.08 (x64)",
+     "version": "24.08",
+     "publisher": "Igor Pavlov",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Foobar2000",
+     "version": "2.1.6",
+     "publisher": "Peter Pawlowski",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1791364510.996544,
+   "isDefault": true,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "wine",
+   "compatRoot": null,
+   "version": "",
+   "protonPath": "",
+   "size": 12300000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "wine:/usr/bin/wine"
+  },
+  {
+   "id": "ba324089b2de",
+   "path": "/home/alex/.local/share/Steam/steamapps/compatdata/1245620/pfx",
+   "autoName": "ELDEN RING",
+   "source": "steam",
+   "refs": [
+    {
+     "launcher": "Steam",
+     "title": "ELDEN RING",
+     "detail": "AppID 1245620"
+    }
+   ],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1791969310.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": "1245620",
+   "kind": "proton",
+   "compatRoot": "/home/alex/.local/share/Steam/steamapps/compatdata/1245620",
+   "version": "9.0-203",
+   "protonPath": "/home/alex/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)",
+   "size": 410000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "proton:/home/alex/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)"
+  },
+  {
+   "id": "b29bd15123ac",
+   "path": "/home/alex/.local/share/Steam/steamapps/compatdata/1091500/pfx",
+   "autoName": "Cyberpunk 2077",
+   "source": "steam",
+   "refs": [
+    {
+     "launcher": "Steam",
+     "title": "Cyberpunk 2077",
+     "detail": "AppID 1091500"
+    }
+   ],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "REDprelauncher",
+     "version": "",
+     "publisher": "CD PROJEKT RED",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1791623710.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": "1091500",
+   "kind": "proton",
+   "compatRoot": "/home/alex/.local/share/Steam/steamapps/compatdata/1091500",
+   "version": "11.0-100",
+   "protonPath": "/home/alex/.local/share/Steam/steamapps/common/Proton - Experimental",
+   "size": 520000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "proton:/home/alex/.local/share/Steam/steamapps/common/Proton - Experimental"
+  },
+  {
+   "id": "a784701ecb6f",
+   "path": "/home/alex/.local/share/Steam/steamapps/compatdata/377160/pfx",
+   "autoName": "Steam-App 377160",
+   "source": "steam",
+   "refs": [],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1756977310.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": "377160",
+   "kind": "proton",
+   "compatRoot": "/home/alex/.local/share/Steam/steamapps/compatdata/377160",
+   "version": "8.0-5",
+   "protonPath": "",
+   "size": 380000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": null
+  },
+  {
+   "id": "c54e79763774",
+   "path": "/home/alex/Games/epic-games-store",
+   "autoName": "Epic Games Store",
+   "source": "lutris",
+   "refs": [
+    {
+     "launcher": "Lutris",
+     "title": "Epic Games Store",
+     "detail": ""
+    }
+   ],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Epic Games Launcher",
+     "version": "1.3.128",
+     "publisher": "Epic Games, Inc.",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [
+    "corefonts"
+   ],
+   "lastUsed": 1782033310.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "proton",
+   "compatRoot": "/home/alex/Games/epic-games-store",
+   "version": "GE-Proton10-25",
+   "protonPath": "/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25",
+   "size": 1400000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25"
+  },
+  {
+   "id": "8d9c6b72e996",
+   "path": "/home/alex/Games/ea-app",
+   "autoName": "EA App",
+   "source": "lutris",
+   "refs": [
+    {
+     "launcher": "Lutris",
+     "title": "EA App",
+     "detail": ""
+    }
+   ],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "EA app",
+     "version": "13.402",
+     "publisher": "Electronic Arts",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [
+    "corefonts",
+    "win10"
+   ],
+   "lastUsed": 1772529310.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "proton",
+   "compatRoot": "/home/alex/Games/ea-app",
+   "version": "GE-Proton10-25",
+   "protonPath": "/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25",
+   "size": 1700000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25"
+  },
+  {
+   "id": "9f3220d53b71",
+   "path": "/home/alex/Games/Heroic/Prefixes/default/Hades",
+   "autoName": "Hades",
+   "source": "heroic",
+   "refs": [
+    {
+     "launcher": "Heroic",
+     "title": "Hades",
+     "detail": "GE-Proton10-25"
+    }
+   ],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1790846110.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "proton",
+   "compatRoot": "/home/alex/Games/Heroic/Prefixes/default/Hades",
+   "version": "GE-Proton10-25",
+   "protonPath": "/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25",
+   "size": 650000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25"
+  },
+  {
+   "id": "3e202dea0e17",
+   "path": "/home/alex/.local/share/bottles/bottles/Office",
+   "autoName": "Office",
+   "source": "bottles",
+   "refs": [
+    {
+     "launcher": "Bottles",
+     "title": "Office",
+     "detail": ""
+    }
+   ],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Microsoft Office Professional Plus 2010",
+     "version": "14.0.7015",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": false
+    },
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1789550110.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "wine",
+   "compatRoot": null,
+   "version": "",
+   "protonPath": "",
+   "size": 2400000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "wine:/usr/bin/wine"
+  },
+  {
+   "id": "b493024d3ac1",
+   "path": "/home/alex/.wine-ahk",
+   "autoName": ".wine-ahk",
+   "source": "wine",
+   "refs": [],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "AutoHotkey 1.1.37.02",
+     "version": "1.1.37.02",
+     "publisher": "Lexikos",
+     "location": "",
+     "runtime": false
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1784193310.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "wine",
+   "compatRoot": null,
+   "version": "",
+   "protonPath": "",
+   "size": 840000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "Nur für die AHK-Makros. Nicht löschen.",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "wine:/usr/bin/wine"
+  },
+  {
+   "id": "7ab16cfceff6",
+   "path": "/home/alex/Games/umu/umu-default",
+   "autoName": "umu-default",
+   "source": "umu",
+   "refs": [],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Wine Mono Windows Support",
+     "version": "9.4.0",
+     "publisher": "Wine",
+     "location": "",
+     "runtime": true
+    },
+    {
+     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
+     "version": "14.40.33810",
+     "publisher": "Microsoft Corporation",
+     "location": "",
+     "runtime": true
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1778577310.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "proton",
+   "compatRoot": "/home/alex/Games/umu/umu-default",
+   "version": "GE-Proton10-25",
+   "protonPath": "/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25",
+   "size": 680000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25"
+  },
+  {
+   "id": "95066c6625c1",
+   "path": "/home/alex/projects/unitytest",
+   "autoName": "unitytest",
+   "source": "wine",
+   "refs": [],
+   "arch": "win64",
+   "programs": [
+    {
+     "name": "Unity Hub 3.9.1",
+     "version": "3.9.1",
+     "publisher": "Unity Technologies Inc.",
+     "location": "",
+     "runtime": false
+    }
+   ],
+   "winetricks": [],
+   "lastUsed": 1774257310.996544,
+   "isDefault": false,
+   "faugusRunner": "",
+   "lutrisWine": "",
+   "appid": null,
+   "kind": "wine",
+   "compatRoot": null,
+   "version": "",
+   "protonPath": "",
+   "size": 690000000,
+   "nestedIn": null,
+   "contains": [],
+   "label": "",
+   "notes": "",
+   "hidden": false,
+   "running": 0,
+   "runnerOverride": "",
+   "runner": "wine:/usr/bin/wine"
+  }
+ ],
+ "runners": [
+  {
+   "id": "wine:/usr/bin/wine",
+   "kind": "wine",
+   "path": "/usr/bin/wine",
+   "label": "System: wine-11.20"
+  },
+  {
+   "id": "wine:/home/alex/.local/share/lutris/runners/wine/wine-ge-8-26-x86_64/bin/wine",
+   "kind": "wine",
+   "path": "",
+   "label": "Lutris: wine-ge-8-26-x86_64"
+  },
+  {
+   "id": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25",
+   "kind": "proton",
+   "path": "/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton10-25",
+   "label": "GE-Proton10-25"
+  },
+  {
+   "id": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton11-7",
+   "kind": "proton",
+   "path": "/home/alex/.local/share/Steam/compatibilitytools.d/GE-Proton11-7",
+   "label": "GE-Proton11-7"
+  },
+  {
+   "id": "proton:/home/alex/.local/share/Steam/compatibilitytools.d/Proton-GE Latest",
+   "kind": "proton",
+   "path": "",
+   "label": "Proton-GE Latest (GE-Proton11-7)"
+  },
+  {
+   "id": "proton:/home/alex/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)",
+   "kind": "proton",
+   "path": "/home/alex/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)",
+   "label": "Proton 9.0 (Beta) (9.0-203)"
+  },
+  {
+   "id": "proton:/home/alex/.local/share/Steam/steamapps/common/Proton - Experimental",
+   "kind": "proton",
+   "path": "/home/alex/.local/share/Steam/steamapps/common/Proton - Experimental",
+   "label": "Proton - Experimental (11.0-100)"
+  }
+ ],
+ "scanning": false,
+ "measuring": 0,
+ "scannedAt": 1792401310.996544,
+ "version": "demo",
+ "demo": true,
+ "home": "/home/alex",
+ "umu": true
+}
